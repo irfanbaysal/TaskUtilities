@@ -1,0 +1,16 @@
+{
+  "name": "com.irfanbaysal.taskutilities",
+  "version": "1.0.0",
+  "displayName": "TaskUtilities",
+  "description": "A class that controls start and stop operations with tokens",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/irfanbaysal/TaskUtilities",
+  "changelogUrl": "https://github.com/irfanbaysal/TaskUtilities/releases",
+  "licensesUrl": "https://github.com/irfanbaysal/TaskUtilities",
+  "author": {
+    "name": "irfanbaysal",
+    "email": "irfanbaysal1997@gmail.com",
+    "url": "https://github.com/irfanbaysal"
+  }
+}
